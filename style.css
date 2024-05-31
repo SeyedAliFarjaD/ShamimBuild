@@ -1,0 +1,10 @@
+.chakra-button svg,
+.chakra-button__icon svg,
+.chakra-menu__icon-wrapper svg {
+  min-width: 1.3rem !important;
+  min-height: 1.3rem !important;
+}
+
+#goftino_w {
+  display: none;
+}
